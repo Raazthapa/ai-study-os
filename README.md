@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![AI](https://img.shields.io/badge/AI-Ollama-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 # AI Study Operating System (AI Study OS)
 
