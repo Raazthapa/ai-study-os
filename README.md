@@ -128,3 +128,20 @@ Author
 Raj Thapa
 
 
+## Screenshots
+
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Subject Management
+![Subjects](assets/screenshots/subjects.png)
+
+### Study Analytics
+![Analytics](assets/screenshots/analytics.png)
+
+### AI Tutor
+![AI Tutor](assets/screenshots/ai_tutor.png)
+
+### Review Schedule
+![Review Schedule](assets/screenshots/review_schedule.png)
+
