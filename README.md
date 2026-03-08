@@ -36,20 +36,20 @@ The system combines study analytics, spaced repetition, and local AI tutoring in
 
 ## Project Structure
 ai_study_os/
-app.py
-README.md
-requirements.txt
-.gitignore
-
-ai/
- client.py
 │
-db/
- database.py
-
-assets/
- screenshots/
-
+├── app.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── ai/
+│ └── client.py
+│
+├── db/
+│ └── database.py
+│
+├── assets/
+│ └── screenshots/
 
 ---
 
