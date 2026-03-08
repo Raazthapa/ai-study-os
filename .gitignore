@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file
+db/study_os.db
+
+# Streamlit secrets or configs
+.streamlit/
+
+# Environment variables
+.env
+
+# OS system files
+.DS_Store
+Thumbs.db
